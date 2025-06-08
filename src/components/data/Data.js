@@ -136,23 +136,23 @@ export const services = [
 export const team = [
   {
     image: "../assets/img/team-1.jpg",
-    name: "Full Name",
-    designation: "Designation",
+    name: "John doe",
+    designation: "Hotel Manager",
   },
   {
     image: "../assets/img/team-2.jpg",
-    name: "Full Name",
-    designation: "Designation",
+    name: "Vicky Arora",
+    designation: "Vice Manager",
   },
   {
     image: "../assets/img/team-3.jpg",
-    name: "Full Name",
-    designation: "Designation",
+    name: "Raj Verma",
+    designation: "Personal Assistant",
   },
   {
     image: "../assets/img/team-3.jpg",
-    name: "Full Name",
-    designation: "Designation",
+    name: "Arun Kumar",
+    designation: "Helper",
   },
 ];
 
@@ -204,15 +204,15 @@ export const footerItem = [
 export const footerContact = [
   {
     icon: <i className="fa fa-map-marker-alt me-3"></i>,
-    name: "123 Street, New York, USA",
+    name: "1128 Street, HSR, India",
   },
   {
     icon: <i className="fa fa-phone-alt me-3"></i>,
-    name: "+012 345 67890",
+    name: "+91 97368 73843",
   },
   {
     icon: <i className="fa fa-envelope me-3"></i>,
-    name: "info@example.com",
+    name: "gostay@example.com",
   },
 ];
 
@@ -220,7 +220,7 @@ export const contact = [
   {
     icon: <i class="fa fa-envelope-open text-primary me-2"></i>,
     title: "Booking",
-    email: "book@example.com",
+    email: "gostaybooking@example.com",
   },
   {
     icon: <i class="fa fa-envelope-open text-primary me-2"></i>,
@@ -237,7 +237,7 @@ export const testimonial = [
   {
     description:
       "Tempor stet labore dolor clita stet diam amet ipsum dolor duo ipsum rebum stet dolor amet diam stet. Est stet ea lorem amet est kasd kasd et erat magna eos",
-    name: "Client Name",
+    name: "Mona",
     profession: "Profession",
     icon: (
       <i class="fa fa-quote-right fa-3x text-primary position-absolute end-0 bottom-0 me-4 mb-n1"></i>
@@ -247,7 +247,7 @@ export const testimonial = [
   {
     description:
       "Tempor stet labore dolor clita stet diam amet ipsum dolor duo ipsum rebum stet dolor amet diam stet. Est stet ea lorem amet est kasd kasd et erat magna eos",
-    name: "Client Name",
+    name: "Ajay",
     profession: "Profession",
     icon: (
       <i class="fa fa-quote-right fa-3x text-primary position-absolute end-0 bottom-0 me-4 mb-n1"></i>
@@ -257,7 +257,7 @@ export const testimonial = [
   {
     description:
       "Tempor stet labore dolor clita stet diam amet ipsum dolor duo ipsum rebum stet dolor amet diam stet. Est stet ea lorem amet est kasd kasd et erat magna eos",
-    name: "Client Name",
+    name: "Rahul",
     profession: "Profession",
     icon: (
       <i class="fa fa-quote-right fa-3x text-primary position-absolute end-0 bottom-0 me-4 mb-n1"></i>
